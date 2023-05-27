@@ -14,6 +14,7 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-06-mixamo-character
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-07-mixamo-animation
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-08-animated-npc
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-09-script-control-animation
 - 
 
 
