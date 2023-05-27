@@ -11,6 +11,7 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-03-hat-pickup-and-wear
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-04-swap-character
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-05-generated-character
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-06-mixamo-character
 - 
 
 
