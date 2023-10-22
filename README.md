@@ -1,8 +1,8 @@
-# unity-cookbook-2023-ch08-animated-characters
+# unity-cookbook-2023-ch09-animated-characters
 
 
 
-## Chapter 8: Animated Characters
+## Chapter 9: Animated Characters
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
